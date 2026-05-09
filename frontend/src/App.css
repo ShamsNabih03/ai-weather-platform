@@ -1,0 +1,73 @@
+.app {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.app-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 8px;
+}
+
+.subtitle {
+  color: #90caf9;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.pm-desc {
+  color: #b0bec5;
+  font-size: 0.85rem;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+
+.loading {
+  text-align: center;
+  color: #90caf9;
+  font-size: 1.1rem;
+  margin: 20px 0;
+}
+
+.error {
+  text-align: center;
+  color: #ef9a9a;
+  background: rgba(239, 83, 80, 0.1);
+  border: 1px solid #ef5350;
+  border-radius: 10px;
+  padding: 12px;
+  margin: 20px 0;
+}
+
+.tabs {
+  display: flex;
+  gap: 10px;
+  margin: 25px 0 20px;
+  justify-content: center;
+}
+
+.tab {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.3s;
+}
+
+.tab:hover {
+  background: rgba(255,255,255,0.2);
+}
+
+.tab.active {
+  background: #1565c0;
+  border-color: #1565c0;
+}
