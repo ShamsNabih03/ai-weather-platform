@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/dc13b714-0427-4a4f-a9ed-7c1b2b41b6f9
 # 🌤 Weather App — PM Accelerator Technical Assessment
 
 **Developed by:** Shams Nabih Quraytum
@@ -7,7 +9,7 @@
 
 ## 📌 About PM Accelerator
 
-PM Accelerator is a product management training program that helps aspiring and experienced PMs accelerate their careers through hands-on projects, mentorship, and a strong professional community. Learn more on their [LinkedIn page](https://www.linkedin.com/company/product-manager-accelerator).
+PM Accelerator is a product management training program that helps aspiring and experienced PMs accelerate their careers through hands-on projects, mentorship, and a strong professional community. Learn more on their ( https://www.linkedin.com/school/pmaccelerator/ ).
 
 ---
 
@@ -47,36 +49,6 @@ PM Accelerator is a product management training program that helps aspiring and 
 | Videos | YouTube Data API v3 |
 | Exports | json2csv, pdfkit |
 
----
-
-## 📁 Project Structure
-weather-app/
-├── backend/
-│   ├── routes/
-│   │   ├── weather.js       # Weather & forecast API routes
-│   │   ├── database.js      # CRUD operations
-│   │   ├── export.js        # JSON, CSV, PDF export
-│   │   └── youtube.js       # YouTube API integration
-│   ├── db.js                # SQLite database setup
-│   ├── server.js            # Express server entry point
-│   ├── .env                 # Environment variables (not committed)
-│   └── package.json
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── SearchBar.js
-│   │   │   ├── CurrentWeather.js
-│   │   │   ├── Forecast.js
-│   │   │   ├── MapView.js
-│   │   │   ├── YoutubeVideos.js
-│   │   │   ├── DateRangeSearch.js
-│   │   │   └── WeatherHistory.js
-│   │   ├── App.js
-│   │   ├── App.css
-│   │   ├── index.js
-│   │   └── index.css
-│   └── package.json
-└── README.md
 ---
 
 ## ⚙️ How to Run the Project
@@ -150,9 +122,8 @@ Go to 👉 `http://localhost:3000`
 ---
 
 ## 🎥 Demo Video
-
-[Link to demo video](#) — *(add your video link here)*
-
+https://www.loom.com/share/45ff608f82714ed9a1eba46f30d51f6f
+https://drive.google.com/file/d/1AGmDG3-_m_ddZWk28USUbukA-S7oy7eo/view?usp=sharing
 ---
 
 ## 📦 Requirements
