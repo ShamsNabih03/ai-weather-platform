@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/dc13b714-0427-4a4f-a9ed-7c1b2b41b6f9
 # 🌤 Weather App — PM Accelerator Technical Assessment
 
 **Developed by:** Shams Nabih Quraytum
@@ -122,7 +120,7 @@ Go to 👉 `http://localhost:3000`
 ---
 
 ## 🎥 Demo Video
-
+https://github.com/user-attachments/assets/dc13b714-0427-4a4f-a9ed-7c1b2b41b6f9
 ---
 
 ## 📦 Requirements
