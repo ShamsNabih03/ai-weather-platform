@@ -122,8 +122,7 @@ Go to 👉 `http://localhost:3000`
 ---
 
 ## 🎥 Demo Video
-https://www.loom.com/share/45ff608f82714ed9a1eba46f30d51f6f
-https://drive.google.com/file/d/1AGmDG3-_m_ddZWk28USUbukA-S7oy7eo/view?usp=sharing
+
 ---
 
 ## 📦 Requirements
