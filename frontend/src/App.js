@@ -19,7 +19,6 @@ function App() {
     <div className="app">
       <header className="app-header">
         <h1>🌤 SkyCast</h1>
-        <p className="subtitle">Real-Time Weather Intelligence</p>
         <p className="subtitle">PM Accelerator — Real-Time Weather Intelligence</p>
         <p className="pm-desc">
           PM Accelerator is a product management training program that helps aspiring
