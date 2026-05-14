@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>🌤 Weather App</h1>
+        <h1>🌤 SkyCast</h1>
         <p className="subtitle">Real-Time Weather Intelligence</p>
         
       </header>
