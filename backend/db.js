@@ -1,6 +1,7 @@
 const Database = require('better-sqlite3');
 const path = require('path');
 
+// Create or connect to SQLite database
 const db = new Database(path.join(__dirname, 'weather.db'));
 
 // Create table if it doesn't exist
@@ -19,4 +20,5 @@ db.exec(`
   )
 `);
 
+// Export database connection
 module.exports = db;
